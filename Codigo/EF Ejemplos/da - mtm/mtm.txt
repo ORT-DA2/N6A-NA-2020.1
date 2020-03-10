@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Server=DESKTOP-MJBP9JV;Database=mtm;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o Entities --no-build -d
